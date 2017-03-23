@@ -1,6 +1,6 @@
 # hexa-puzzle
 
-[download [x32]](https://drive.google.com/open?id=0B5vssmhQnZ0Ed0JlcGloa0JFTzg)
+[download [x32]](https://drive.google.com/open?id=0B5vssmhQnZ0ERTFCTkhzLUxwajQ)
 
 A basic application needs just these files:
 
