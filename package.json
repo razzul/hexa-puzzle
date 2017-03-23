@@ -1,0 +1,27 @@
+{
+  "name": "win-calculator",
+  "version": "1.0.0",
+  "description": "Windows 10 calculator",
+  "main": "main.js",
+  "repository": "https://github.com/razzul/win-calculator",
+  "keywords": [
+    "Calculator"
+  ],
+  "build": {
+    "appId": "com.electron.razzul.win-calculator",
+    "win": {}
+  },
+  "scripts": {
+    "start": "electron .",
+    "pack": "build --dir",
+    "dist": "build"
+  },
+  "author": "razzul",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.4.1",
+    "electron-builder": "^16.2.0",
+    "electron-cookies": "^1.1.0"
+  },
+  "postinstall": "install-app-deps"
+}
